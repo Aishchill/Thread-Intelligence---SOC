@@ -1,0 +1,6 @@
+2026-09-29 09:41:12 GET /login 185.220.101.1
+2026-09-29 09:41:14 GET /admin 8.8.8.8
+2026-09-29 09:41:18 DNS query suspicious-example.com
+2026-09-29 09:41:22 File hash: 44d88612fea8a8f36de82e1278abb02f
+2026-09-29 09:41:30 File hash: d41d8cd98f00b204e9800998ecf8427e
+2026-09-29 09:41:31 Internal connection 192.168.1.25

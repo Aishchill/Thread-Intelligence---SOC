@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/
+data/cache/*.json
+reports/*.csv
+reports/*.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
